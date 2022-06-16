@@ -1,6 +1,8 @@
 {
   "item.tutorialmod.raw_tanzanite": "Rohes Tansanit",
   "item.tutorialmod.tanzanite": "Tansanit",
+  "block.tutorialmod.tanzanite_block": "Tansanit Block",
+  "block.tutorialmod.tanzanite_ore": "Tansanit Erz",
 
   "itemGroup.tutorialmod.tanzanite": "Tansanit Tutorial Tab"
 }
